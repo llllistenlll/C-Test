@@ -21,7 +21,7 @@ void fun()
 
     }
     else if (c1.calpoint(p2)==1) {
-        cout<<"点在   圆 外"<<endl;
+        cout<<"点在   圆 22323外"<<endl;
 
     }
     else {
