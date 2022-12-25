@@ -17,7 +17,7 @@ void fun()
     cout<<p2.getx()<<p2.gety()<<endl;
     if(c1.calpoint(p2)==0)
     {
-        cout<<"点在 圆上123"<<endl;
+        cout<<"点在 圆上1233245"<<endl;
 
     }
     else if (c1.calpoint(p2)==1) {
