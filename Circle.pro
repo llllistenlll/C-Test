@@ -5,8 +5,10 @@ CONFIG -= qt
 
 SOURCES += \
         circle.cpp \
-        main.cpp
+        main.cpp \
+    test.cpp
 
 HEADERS += \
     Point.h \
-    circle.h
+    circle.h \
+    test.h

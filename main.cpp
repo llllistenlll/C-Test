@@ -1,8 +1,13 @@
 #include <iostream>
-#include "Point.h"
-#include "circle.h"
 
 using namespace std;
+
+#include "Point.h"
+#include "circle.h"
+#include "test.h"
+
+
+
 void fun()
 {
     Point p1;
@@ -31,10 +36,23 @@ void fun()
 }
 
 
+//int main()
+//{
+
+
+////    test Test;
+////    Test.PrintB();
+////    Test.fun();
+////    Test.A::fun();
+
+
+
+////    system("pause");
+////    return EXIT_FAILURE;
+//}
 int main()
 {
-    fun();
-
-    system("pause");
-    return EXIT_FAILURE;
+    Son b;
+    b.func();
+    return 0;
 }
